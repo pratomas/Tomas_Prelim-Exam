@@ -1,4 +1,3 @@
-````markdown
 # GE 4120 — 21st Century IT Skills
 ### PRELIM EXAM | Digital Portfolio
 
@@ -44,6 +43,7 @@ The design promotes a free coffee event using a clear visual hierarchy, short me
 > *“JUST CAFFEINE AND GOOD VIBES.”*
 
 ### What I Created
+
 - Promotional coffee graphic
 - Clear event information
 - Attention-grabbing headline
@@ -116,6 +116,7 @@ The infographic explains the importance of understanding sudden flooding, includ
 ### Key Points
 
 **Causes**
+
 - Intense rainfall
 - Dam overflow
 - Drainage issues
@@ -124,6 +125,7 @@ The infographic explains the importance of understanding sudden flooding, includ
 - Deforestation
 
 **Warning Signs**
+
 - Rapidly rising water
 - Strong currents
 - Heavy rainfall
@@ -211,113 +213,3 @@ Tomas_Prelim-Exam/
 └── Activity 3/
     ├── Infographic_TOMAS.pdf
     └── Project Documentation_TOMAS.pdf
-````
-
-This structure keeps the portfolio organized while allowing each activity to have its own designated folder and files.
-
----
-
-# 🧩 GitHub Features Explored
-
-Through creating this repository, I explored several GitHub features, including:
-
-* 📁 Creating and organizing folders
-* 📄 Uploading files
-* 📝 Creating and editing a README file
-* 🔗 Creating links to files within the repository
-* 🌐 Making academic outputs accessible online
-* 📌 Organizing outputs into a digital portfolio
-* 💻 Using Markdown to improve repository presentation
-
----
-
-# 📈 My Progress
-
-| Skill                      | Progress    |
-| -------------------------- | ----------- |
-| Presentation Design        | ✅ Developed |
-| Color & Typography         | ✅ Developed |
-| Infographic Design         | ✅ Developed |
-| Project Documentation      | ✅ Developed |
-| GitHub Organization        | ✅ Developed |
-| Digital Portfolio Creation | ✅ Developed |
-
----
-
-# 💭 Challenges & Learning
-
-One of the challenges I encountered was learning how to properly organize my outputs and present them in a way that was easy to navigate.
-
-Creating the GitHub repository helped me understand that digital portfolios are not only about uploading files. **Organization, accessibility, presentation, and clear documentation are equally important.**
-
-I also learned that visual design decisions should support the message rather than simply make a design look attractive.
-
----
-
-# 🎯 Final Reflection
-
-## What is the Importance of Presentation Design?
-
-Presentation design is important because it helps transform information into something that is easier to understand, remember, and engage with.
-
-A well-designed presentation considers the **audience, purpose, visual hierarchy, readability, color, typography, and organization of information**.
-
-Through the activities in this portfolio, I learned that effective design is not simply about making something visually appealing. It is about creating a meaningful visual experience that allows information to be communicated clearly and professionally.
-
-As a nursing student, these skills can also be applied beyond academic requirements. Clear presentations, informative infographics, and well-organized digital materials can help communicate health information more effectively to patients, communities, classmates, and future colleagues.
-
-> **Good design does not only make information look better — it helps people understand it better.**
-
----
-
-# ⭐ Key Takeaways
-
-### 01 — Design with Purpose
-
-Every visual element should contribute to the message.
-
-### 02 — Visual Hierarchy Matters
-
-Important information should be easy to identify.
-
-### 03 — Color & Typography Create Identity
-
-Consistent choices make designs more cohesive and professional.
-
-### 04 — Information Should Be Accessible
-
-Good design helps audiences understand information quickly.
-
-### 05 — Organization is Part of Presentation
-
-A well-structured digital portfolio makes outputs easier to navigate and evaluate.
-
----
-
-## 👩‍⚕️ About Me
-
-**Petricia Ros Tomas**
-BS Nursing Student
-Davao City, Philippines
-
-> *Learning, creating, and communicating through technology.*
-
----
-
-## 📌 Repository Navigation
-
-| Section                               | File                                                                                                                                                   |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🎨 Activity 1                         | [Activity 1 - GE 1420_Tomas.pdf](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%201%20Folder/Activity%201%20-%20GE%201420_Tomas.pdf) |
-| 🎨 Activity 2                         | [Activity 2_Tomas.pdf](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%202/Activity%202_Tomas.pdf)                                    |
-| 🌊 Activity 3 — Infographic           | [Infographic_TOMAS.pdf](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%203/Infographic_TOMAS.pdf)                                    |
-| 💡 Activity 3 — Project Documentation | [Project Documentation_TOMAS.pdf](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%203/Project%20Documentation_TOMAS.pdf)              |
-
----
-
-### ✨ Thank you for viewing my digital portfolio!
-
-**GE 4120 — 21st Century IT Skills**
-**PRELIM EXAM | Petricia Ros Tomas**
-
-```
