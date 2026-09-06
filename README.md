@@ -1,9 +1,8 @@
-````markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Petricia%20Ros%20Tomas&fontSize=42&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=21st%20Century%20IT%20Skills&fontSize=42&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h2 align="center">GE 4120 — 21st Century IT Skills</h2>
+<h2 align="center">Petricia Ros A. Tonas</h2>
 
 <p align="center">
   <i>Prelim Exam | Digital Portfolio</i>
@@ -42,7 +41,7 @@ The portfolio highlights my experience in **presentation design, visual communic
 
 # 📂 Portfolio Contents
 
-| Folder | Files | Focus |
+| Folder | File | Focus |
 |---|---|---|
 | 📁 **Activity 1 Folder** | `Activity 1 - GE 1420_Tomas.pdf` | Presentation Design Principles |
 | 📁 **Activity 2** | `Activity 2_Tomas.pdf` | Color Palette & Typography |
@@ -237,142 +236,3 @@ Tomas_Prelim-Exam/
 └── Activity 3/
     ├── Infographic_TOMAS.pdf
     └── Project Documentation_TOMAS.pdf
-````
-
-This structure keeps the portfolio organized while allowing each activity to have its own designated folder and files.
-
----
-
-# 🧩 GitHub Features Explored
-
-Through creating this repository, I explored several GitHub features, including:
-
-* 📁 Creating and organizing folders
-* 📄 Uploading files
-* 📝 Creating and editing a README file
-* 🔗 Creating links to files within the repository
-* 🌐 Making academic outputs accessible online
-* 📌 Organizing outputs into a digital portfolio
-* 💻 Using Markdown to improve repository presentation
-* 📂 Structuring files for easier navigation
-* 🔄 Updating and maintaining repository content
-
----
-
-# 📈 Skills Developed
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Presentation%20Design-Developed-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Visual%20Communication-Developed-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Color%20Theory-Developed-6C63FF?style=flat-square" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Typography-Developed-8A6F5A?style=flat-square" />
-<img src="https://img.shields.io/badge/Infographic%20Design-Developed-8A6F5A?style=flat-square" />
-<img src="https://img.shields.io/badge/GitHub-Developed-8A6F5A?style=flat-square" />
-
-</p>
-
----
-
-# 📊 My Progress
-
-| Skill                      | Progress        |
-| -------------------------- | --------------- |
-| Presentation Design        | ██████████ 100% |
-| Color & Typography         | ██████████ 100% |
-| Infographic Design         | ██████████ 100% |
-| Project Documentation      | ██████████ 100% |
-| GitHub Organization        | █████████░ 90%  |
-| Digital Portfolio Creation | █████████░ 90%  |
-
----
-
-# 💭 Challenges & Learning
-
-One of the challenges I encountered was learning how to properly organize my outputs and present them in a way that was easy to navigate.
-
-Creating the GitHub repository helped me understand that digital portfolios are not only about uploading files. **Organization, accessibility, presentation, and clear documentation are equally important.**
-
-I also learned that visual design decisions should support the message rather than simply make a design look attractive.
-
----
-
-# 🎯 Final Reflection
-
-## What is the Importance of Presentation Design?
-
-Presentation design is important because it helps transform information into something that is easier to understand, remember, and engage with.
-
-A well-designed presentation considers the **audience, purpose, visual hierarchy, readability, color, typography, and organization of information**.
-
-Through the activities in this portfolio, I learned that effective design is not simply about making something visually appealing. It is about creating a meaningful visual experience that allows information to be communicated clearly and professionally.
-
-As a nursing student, these skills can also be applied beyond academic requirements. Clear presentations, informative infographics, and well-organized digital materials can help communicate health information more effectively to patients, communities, classmates, and future colleagues.
-
-> **Good design does not only make information look better — it helps people understand it better.**
-
----
-
-# ⭐ Key Takeaways
-
-### 01 — Design with Purpose
-
-Every visual element should contribute to the message.
-
-### 02 — Visual Hierarchy Matters
-
-Important information should be easy to identify.
-
-### 03 — Color & Typography Create Identity
-
-Consistent choices make designs more cohesive and professional.
-
-### 04 — Information Should Be Accessible
-
-Good design helps audiences understand information quickly.
-
-### 05 — Organization is Part of Presentation
-
-A well-structured digital portfolio makes outputs easier to navigate and evaluate.
-
----
-
-# 🗂️ Repository Navigation
-
-| Section                               | File                                                                                                                                                     |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎨 Activity 1                         | [Activity 1 - GE 1420_Tomas.pdf →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%201%20Folder/Activity%201%20-%20GE%201420_Tomas.pdf) |
-| 🎨 Activity 2                         | [Activity 2_Tomas.pdf →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%202/Activity%202_Tomas.pdf)                                    |
-| 🌊 Activity 3 — Infographic           | [Infographic_TOMAS.pdf →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%203/Infographic_TOMAS.pdf)                                    |
-| 💡 Activity 3 — Project Documentation | [Project Documentation_TOMAS.pdf →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%203/Project%20Documentation_TOMAS.pdf)              |
-
----
-
-# 👩‍⚕️ About Me
-
-**Petricia Ros Tomas**
-Fourth Year BS Nursing Student
-
-📍 Davao City, Philippines
-
-> *Learning, creating, and communicating through technology.*
-
----
-
-<p align="center">
-  <b>GE 4120 — 21st Century IT Skills</b>
-  <br>
-  Prelim Exam | Digital Portfolio
-  <br><br>
-  ✦ ✦ ✦
-  <br><br>
-  <i>Thank you for viewing my digital portfolio!</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-```
