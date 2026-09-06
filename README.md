@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=21st%20Century%20IT%20Skills&fontSize=42&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h2 align="center">Petricia Ros A. Tonas</h2>
+<h2 align="center">Petricia Ros A. Tomas</h2>
 
 <p align="center">
   <i>Prelim Exam | Digital Portfolio</i>
@@ -33,7 +33,6 @@ The portfolio highlights my experience in **presentation design, visual communic
 | 🎨 [Activity 1](#-activity-1--presentation-design-principles) | Presentation Design |
 | 🎨 [Activity 2](#-activity-2--color-palette-and-typography) | Color & Typography |
 | 🌊 [Activity 3](#-activity-3--social-media-infographic--mini-project-documentation) | Infographic & Mini Project |
-
 
 ---
 
@@ -86,35 +85,53 @@ I focused on making the message immediately understandable while keeping the des
 
 🔗 **[View Activity 2 PDF →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%202/Activity%202_Tomas.pdf)**
 
-### Output: Color Palette & Typography Set
+### 🎨 Output: Color Palette & Typography Set
 
-This activity explored how **color and typography** influence the overall appearance, readability, and personality of a design.
+This activity focused on creating a **consistent visual identity through the intentional selection of colors and typography**. The purpose was to explore how color and typography can influence the appearance, readability, mood, and overall visual experience of a design.
 
-### ✒️ Typography
+### 🎨 Chosen Color Palette
 
-| Font | Role |
-|---|---|
-| **Lancelot** | Display Font |
-| **Sloop Script Pro** | Body Font |
-| **Love Lace** | Accent Font |
+| Color | Hex Code | Purpose |
+|---|---|---|
+| Light Neutral | `#f6f5f4` | Main background and clean visual foundation |
+| Taupe | `#998675` | Supporting elements and secondary details |
+| Brown | `#7b440b` | Visual emphasis and important elements |
+| Dark Brown | `#623405` | Strong accents and contrast |
+| Charcoal | `#4a454b` | Text and subtle visual details |
 
-Each font was assigned a specific role to create visual hierarchy and consistency.
+I selected these colors to create a **warm, sophisticated, and cohesive visual appearance**. The neutral tones provide a clean foundation, while the brown shades add warmth, depth, and emphasis to important elements.
 
-### 🎨 Color Palette
+The colors were distributed to maintain visual balance:
 
-| Color | Hex Code |
-|---|---|
-| Light Neutral | `#f6f5f4` |
-| Taupe | `#998675` |
-| Brown | `#7b440b` |
-| Dark Brown | `#623405` |
-| Charcoal | `#4a454b` |
+- **80%** — `#f6f5f4`
+- **15%** — `#998675`
+- **3%** — `#7b440b`
+- **1.5%** — `#623405`
+- **0.5%** — `#4a454b`
 
-### Design Concept
+### ✒️ Chosen Typography
+
+| Font | Role | Purpose |
+|---|---|---|
+| **Lancelot** | Display Font | Headings, titles, logos, and major statements |
+| **Sloop Script Pro** | Body Font | Descriptions, information, and supporting text |
+| **Love Lace** | Accent Font | Labels, highlights, and decorative accents |
+
+I selected these typefaces to create **visual hierarchy, contrast, and consistency**. Each font was assigned a specific role so that important information could stand out while supporting information remained organized and readable.
+
+### 💡 Why I Selected These Colors and Fonts
+
+I chose this combination because I wanted the design to have a **polished, warm, and elegant visual identity** without becoming overwhelming.
+
+The neutral and brown color palette creates a cohesive foundation, while the combination of display, body, and accent fonts adds variety and hierarchy. These choices also help distinguish different types of information and make the overall design more organized and visually engaging.
+
+### 🎯 Design Concept
 
 > **“Care in the Details. Power in the Execution.”**
 
-The combination of typography and color was selected to create a polished and cohesive visual identity while maintaining readability and balance.
+The concept reflects my approach to design, where small details such as color, font selection, hierarchy, and consistency can have a significant effect on how effectively information is presented.
+
+Through this activity, I learned that **color and typography are not only decorative elements but also important tools for communication**. Intentional choices in both can help make a presentation clearer, more cohesive, and more engaging for its intended audience.
 
 ---
 
@@ -220,7 +237,7 @@ The repository was structured using folders based on each activity, allowing the
 
 ### 📁 Repository Structure
 
-```text
+<pre>
 Tomas_Prelim-Exam/
 │
 ├── README.md
@@ -234,3 +251,4 @@ Tomas_Prelim-Exam/
 └── Activity 3/
     ├── Infographic_TOMAS.pdf
     └── Project Documentation_TOMAS.pdf
+</pre>
