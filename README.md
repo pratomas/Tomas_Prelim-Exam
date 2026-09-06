@@ -33,9 +33,7 @@ The portfolio highlights my experience in **presentation design, visual communic
 | 🎨 [Activity 1](#-activity-1--presentation-design-principles) | Presentation Design |
 | 🎨 [Activity 2](#-activity-2--color-palette-and-typography) | Color & Typography |
 | 🌊 [Activity 3](#-activity-3--social-media-infographic--mini-project-documentation) | Infographic & Mini Project |
-| 🖥️ [GitHub](#️-github-setup--organization) | Repository Organization |
-| 💭 [Reflection](#-final-reflection) | Learning Reflection |
-| ⭐ [Takeaways](#-key-takeaways) | Key Learnings |
+
 
 ---
 
