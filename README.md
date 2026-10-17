@@ -246,8 +246,6 @@ This folder contains the midterm presentation materials for GE 4120: 21st Centur
 
 Access the Google Docs quiz through the interactive quiz website or open the Google Form directly.
 
-🔗 **[Open Google Docs Quiz Website →](https://pratomas.github.io/Tomas_Prelim-Exam/Presentation%20File%20Midterms/Google%20Docs%20Quiz%20Link/)**
-
 🔗 **[Take the Google Docs Quiz Directly →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
 
 ---
