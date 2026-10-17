@@ -45,6 +45,9 @@ The portfolio highlights my experience in **presentation design, visual communic
 | 📁 **Activity 2** | `Activity 2_Tomas.pdf` | Color Palette & Typography |
 | 📁 **Activity 3** | `Infographic_TOMAS.pdf` | Social Media Infographic |
 | 📁 **Activity 3** | `Project Documentation_TOMAS.pdf` | Mini Project Documentation |
+| 📁 **Presentation File Midterms** | `GE 4120  GROUP 5 ELECTIVE SLIDES.pdf` | Group 5 Elective Presentation |
+| 📁 **Presentation File Midterms** | `Google Docs Quiz Link` | Google Docs Quiz Website |
+
 
 ---
 
