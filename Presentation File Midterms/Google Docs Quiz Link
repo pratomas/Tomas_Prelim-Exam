@@ -1,1 +1,386 @@
-Link: https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration | Official Form</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --navy: #102b50;
+      --blue: #2458a6;
+      --gold: #e9bd72;
+      --cream: #faf8f3;
+      --white: #ffffff;
+      --text: #24344b;
+      --muted: #748198;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      color: var(--text);
+      background: var(--cream);
+      min-height: 100vh;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, #102344, #1e4c87 65%, #3479ad);
+      color: white;
+      padding: 24px 7% 95px;
+    }
+
+    .hero::before,
+    .hero::after {
+      content: "";
+      position: absolute;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+
+    .hero::before {
+      width: 420px;
+      height: 420px;
+      right: -130px;
+      top: -210px;
+    }
+
+    .hero::after {
+      width: 300px;
+      height: 300px;
+      left: -170px;
+      bottom: -190px;
+    }
+
+    nav {
+      max-width: 1100px;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .brand-icon {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(255,255,255,.35);
+      border-radius: 13px;
+      color: var(--gold);
+      font-size: 21px;
+    }
+
+    .nav-label {
+      font-size: 12px;
+      color: #d7e5f7;
+      letter-spacing: 1px;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 850px;
+      margin: 76px auto 0;
+      text-align: center;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      padding: 9px 16px;
+      border: 1px solid rgba(255,255,255,.25);
+      border-radius: 50px;
+      color: #f4d9a6;
+      background: rgba(255,255,255,.07);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin-top: 25px;
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(38px, 6vw, 65px);
+      line-height: 1.12;
+      letter-spacing: -1.5px;
+    }
+
+    h1 span {
+      color: var(--gold);
+    }
+
+    .hero-content p {
+      max-width: 560px;
+      margin: 22px auto 0;
+      color: #dbe5f3;
+      font-size: 16px;
+      line-height: 1.8;
+    }
+
+    .hero-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 30px;
+      padding: 16px 27px;
+      border-radius: 10px;
+      background: var(--gold);
+      color: #172a45;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: 0 8px 25px rgba(0,0,0,.16);
+      transition: transform .2s, background .2s;
+    }
+
+    .hero-button:hover {
+      transform: translateY(-3px);
+      background: #f5d49b;
+    }
+
+    .arrow {
+      font-size: 18px;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: -45px auto 0;
+      padding: 0 22px 65px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .form-card {
+      background: white;
+      border: 1px solid #e9edf3;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 20px 60px rgba(20,42,75,.10);
+    }
+
+    .card-header {
+      padding: 30px 35px 25px;
+      border-bottom: 1px solid #edf0f5;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .card-header h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 25px;
+      color: var(--navy);
+    }
+
+    .card-header p {
+      margin-top: 7px;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .secure-tag {
+      white-space: nowrap;
+      color: #31724e;
+      background: #edf8f0;
+      padding: 9px 12px;
+      border-radius: 30px;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
+    .form-container {
+      padding: 12px;
+      background: #fff;
+    }
+
+    iframe {
+      display: block;
+      width: 100%;
+      min-height: 950px;
+      border: none;
+      border-radius: 10px;
+      background: white;
+    }
+
+    .fallback {
+      text-align: center;
+      padding: 20px 15px 30px;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.8;
+    }
+
+    .fallback a {
+      color: var(--blue);
+      font-weight: 700;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px 20px 35px;
+      color: #8490a1;
+      font-size: 12px;
+      line-height: 1.8;
+    }
+
+    footer span {
+      color: var(--blue);
+      font-weight: 700;
+    }
+
+    @media (max-width: 600px) {
+      .hero {
+        padding: 20px 20px 80px;
+      }
+
+      .brand {
+        font-size: 10px;
+        letter-spacing: 1px;
+      }
+
+      .brand-icon {
+        width: 36px;
+        height: 36px;
+      }
+
+      .nav-label {
+        font-size: 10px;
+      }
+
+      .hero-content {
+        margin-top: 60px;
+      }
+
+      .hero-content p {
+        font-size: 14px;
+      }
+
+      main {
+        padding-left: 12px;
+        padding-right: 12px;
+      }
+
+      .card-header {
+        padding: 24px 20px;
+        align-items: flex-start;
+      }
+
+      .card-header h2 {
+        font-size: 22px;
+      }
+
+      .secure-tag {
+        font-size: 9px;
+        padding: 8px;
+      }
+
+      .form-container {
+        padding: 5px;
+      }
+
+      iframe {
+        min-height: 1050px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header class="hero">
+    <nav>
+      <div class="brand">
+        <div class="brand-icon">✦</div>
+        <span>Official Registration</span>
+      </div>
+      <div class="nav-label">YOUR NEXT STEP STARTS HERE</div>
+    </nav>
+
+    <div class="hero-content">
+      <div class="eyebrow">You're invited</div>
+
+      <h1>Make It Official.<br><span>Register Today.</span></h1>
+
+      <p>
+        We're glad you're here! Complete the registration form below
+        to submit your information. It only takes a few minutes.
+      </p>
+
+      <a class="hero-button"
+         href="https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform"
+         target="_blank"
+         rel="noopener noreferrer">
+        Open Registration Form <span class="arrow">↗</span>
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <section class="form-card">
+      <div class="card-header">
+        <div>
+          <h2>Registration Form</h2>
+          <p>Please complete all required fields before submitting.</p>
+        </div>
+        <div class="secure-tag">✓ Google Forms</div>
+      </div>
+
+      <div class="form-container">
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform?embedded=true"
+          title="Registration Form"
+          loading="lazy">
+          Loading form...
+        </iframe>
+      </div>
+
+      <div class="fallback">
+        Having trouble viewing the form?
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform"
+           target="_blank" rel="noopener noreferrer">
+          Click here to open it directly.
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Designed with care <span>✦</span><br>
+    Please check your responses before submitting.
+  </footer>
+
+</body>
+</html>
