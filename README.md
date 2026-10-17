@@ -33,6 +33,7 @@ The portfolio highlights my experience in **presentation design, visual communic
 | 🎨 [Activity 1](#-activity-1--presentation-design-principles) | Presentation Design |
 | 🎨 [Activity 2](#-activity-2--color-palette-and-typography) | Color & Typography |
 | 🌊 [Activity 3](#-activity-3--social-media-infographic--mini-project-documentation) | Infographic & Mini Project |
+| 📚 [Presentation File Midterms](#-presentation-file-midterms) | Midterm Presentation & Google Docs Quiz |
 
 ---
 
@@ -229,6 +230,30 @@ The system aims to help communities:
 
 ---
 
+# 📚 Presentation File Midterms
+
+📁 **Folder:** `Presentation File Midterms`
+
+This folder contains the midterm presentation materials for GE 4120: 21st Century IT Skills, including the Group 5 elective presentation and the Google Docs quiz.
+
+## 🎤 Part A — Group 5 Elective Presentation
+
+📄 **File:** `GE 4120  GROUP 5 ELECTIVE SLIDES.pdf`
+
+🔗 **[View Group 5 Elective Slides →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Presentation%20File%20Midterms/GE%204120%20%20GROUP%205%20ELECTIVE%20SLIDES.pdf)**
+
+## 📝 Part B — Google Docs Quiz
+
+Access the Google Docs quiz through the interactive quiz website or open the Google Form directly.
+
+🔗 **[Open Google Docs Quiz Website →](https://pratomas.github.io/Tomas_Prelim-Exam/Presentation%20File%20Midterms/Google%20Docs%20Quiz%20Link/)**
+
+🔗 **[Take the Google Docs Quiz Directly →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
+
+---
+
+---
+
 # 🖥️ GitHub Setup & Organization
 
 I used **GitHub as a digital portfolio platform** to organize and present my academic outputs.
@@ -249,6 +274,32 @@ Tomas_Prelim-Exam/
 │   └── Activity 2_Tomas.pdf
 │
 └── Activity 3/
-    ├── Infographic_TOMAS.pdf
-    └── Project Documentation_TOMAS.pdf
+│   ├── Infographic_TOMAS.pdf
+│   └── Project Documentation_TOMAS.pdf
+│
+├── Presentation File Midterms/
+│   ├── GE 4120  GROUP 5 ELECTIVE SLIDES.pdf
+│   └── Google Docs Quiz Link/
+│       └── index.html
 </pre>
+
+---
+
+## 🌟 Learning Reflection
+
+Creating this digital portfolio has allowed me to organize and present my academic outputs in an accessible online platform. These activities have strengthened my skills in digital communication, presentation design, information organization, and the use of online learning tools.
+
+As a nursing student, I recognize the importance of digital literacy in academic learning and professional practice. These skills can support effective communication, responsible information management, and lifelong learning in the healthcare field.
+
+---
+
+## 📬 About This Portfolio
+
+**Prepared by:** Petricia Ros A. Tomas  
+**Course:** GE 4120 — 21st Century IT Skills  
+**Program:** Bachelor of Science in Nursing  
+**Year:** 2026
+
+---
+
+*Thank you for visiting my digital portfolio!*
