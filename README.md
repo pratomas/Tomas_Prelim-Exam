@@ -6,6 +6,10 @@
 <h2 align="center">Petricia Ros A. Tomas</h2>
 
 <p align="center">
+  <img src="images/profile.jpg" width="180" alt="Petricia Ros A. Tomas">
+</p>
+
+<p align="center">
   <i>Final Exam | Digital Portfolio</i>
 </p>
 
@@ -25,7 +29,22 @@ This repository contains my outputs for **GE 4120: 21st Century IT Skills**, org
 
 My interests include nursing, sports, table tennis, creative design, and exploring digital technologies.
 
-The portfolio highlights my experience in **presentation design, visual communication, color and typography, infographic creation, project documentation, prompt engineering, AI-assisted content creation, website development, and GitHub repository management.**
+The portfolio highlights my experience in presentation design, visual communication, color and typography, infographic creation, project documentation, prompt engineering, AI-assisted content creation, website development, and GitHub repository management.
+
+---
+
+## 💻 Skills and Tools Learned
+
+Throughout GE 4120, I developed and strengthened the following skills:
+
+- **GitHub** – Repository management, file organization, and version control.
+- **HTML and CSS** – Basic website structure and styling.
+- **Canva** – Presentation design and infographic creation.
+- **AI Prompt Engineering** – Writing, refining, and evaluating AI prompts.
+- **Artificial Intelligence Tools** – Using ChatGPT and Claude AI for content generation and document creation.
+- **Website Development** – Creating personal portfolio websites using AI-assisted website builders.
+- **Digital Communication** – Organizing and presenting information through digital platforms.
+- **Visual Design** – Applying color theory, typography, layout, and visual hierarchy.
 
 ---
 
@@ -69,7 +88,7 @@ The portfolio highlights my experience in **presentation design, visual communic
 
 ### ☕ Output: Free Coffee Promotional Design
 
-This activity focused on applying basic **presentation design principles** to create a simple promotional material.
+This activity focused on applying basic presentation design principles to create a simple promotional material.
 
 The design promotes a free coffee event using a clear visual hierarchy, short messaging, and attention-grabbing text.
 
@@ -100,7 +119,7 @@ I focused on making the message immediately understandable while keeping the des
 
 ### 🎨 Output: Color Palette & Typography Set
 
-This activity focused on creating a **consistent visual identity through the intentional selection of colors and typography**. The purpose was to explore how color and typography can influence the appearance, readability, mood, and overall visual experience of a design.
+This activity focused on creating a consistent visual identity through the intentional selection of colors and typography. The purpose was to explore how color and typography can influence the appearance, readability, mood, and overall visual experience of a design.
 
 ### 🎨 Chosen Color Palette
 
@@ -112,7 +131,7 @@ This activity focused on creating a **consistent visual identity through the int
 | Dark Brown | `#623405` | Strong accents and contrast |
 | Charcoal | `#4a454b` | Text and subtle visual details |
 
-I selected these colors to create a **warm, sophisticated, and cohesive visual appearance**. The neutral tones provide a clean foundation, while the brown shades add warmth, depth, and emphasis to important elements.
+I selected these colors to create a warm, sophisticated, and cohesive visual appearance. The neutral tones provide a clean foundation, while the brown shades add warmth, depth, and emphasis to important elements.
 
 The colors were distributed to maintain visual balance:
 
@@ -130,11 +149,11 @@ The colors were distributed to maintain visual balance:
 | **Sloop Script Pro** | Body Font | Descriptions, information, and supporting text |
 | **Love Lace** | Accent Font | Labels, highlights, and decorative accents |
 
-I selected these typefaces to create **visual hierarchy, contrast, and consistency**. Each font was assigned a specific role so that important information could stand out while supporting information remained organized and readable.
+I selected these typefaces to create visual hierarchy, contrast, and consistency. Each font was assigned a specific role so that important information could stand out while supporting information remained organized and readable.
 
 ### 💡 Why I Selected These Colors and Fonts
 
-I chose this combination because I wanted the design to have a **polished, warm, and elegant visual identity** without becoming overwhelming.
+I chose this combination because I wanted the design to have a polished, warm, and elegant visual identity without becoming overwhelming.
 
 The neutral and brown color palette creates a cohesive foundation, while the combination of display, body, and accent fonts adds variety and hierarchy. These choices also help distinguish different types of information and make the overall design more organized and visually engaging.
 
@@ -144,7 +163,7 @@ The neutral and brown color palette creates a cohesive foundation, while the com
 
 The concept reflects my approach to design, where small details such as color, font selection, hierarchy, and consistency can have a significant effect on how effectively information is presented.
 
-Through this activity, I learned that **color and typography are not only decorative elements but also important tools for communication**. Intentional choices in both can help make a presentation clearer, more cohesive, and more engaging for its intended audience.
+Through this activity, I learned that color and typography are not only decorative elements but also important tools for communication. Intentional choices in both can help make a presentation clearer, more cohesive, and more engaging for its intended audience.
 
 ---
 
@@ -152,7 +171,7 @@ Through this activity, I learned that **color and typography are not only decora
 
 📁 **Folder:** `Activity 3`
 
-This activity consists of **two outputs**: the social media infographic and the mini project documentation.
+This activity consists of two outputs: the social media infographic and the mini project documentation.
 
 ## 📰 Part A — Social Media Infographic
 
@@ -197,7 +216,7 @@ Recognizing warning signs early can help communities respond quickly and potenti
 
 ### 💻 Project Overview
 
-The mini project explores how **Information Technology can be used to improve flood preparedness and community safety**.
+The mini project explores how Information Technology can be used to improve flood preparedness and community safety.
 
 The proposed system uses automated water-level sensors, data collection, and mobile/web notifications to provide communities with timely information about rising water levels.
 
@@ -289,7 +308,7 @@ This activity taught me that the quality of an AI-generated response is greatly 
 
 ### 💻 Output: Personal Portfolio Website
 
-This activity focused on creating a **one-page personal portfolio website** using an AI-assisted website-building tool.
+This activity focused on creating a one-page personal portfolio website using an AI-assisted website-building tool.
 
 ### AI Tool Used
 
@@ -428,6 +447,9 @@ The repository was structured using folders based on each activity, allowing the
 Tomas_Prelim-Exam/
 │
 ├── README.md
+│
+├── images/
+│   └── profile.jpg
 │
 ├── Activity 1 Folder/
 │   └── Activity 1 - GE 1420_Tomas.pdf
