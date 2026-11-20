@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=21st%20Century%20IT%20Skills&fontSize=42&fontAlignY=35&animation=fadeIn" />
 </p>
@@ -5,7 +6,7 @@
 <h2 align="center">Petricia Ros A. Tomas</h2>
 
 <p align="center">
-  <i>Prelim Exam | Digital Portfolio</i>
+  <i>Final Exam | Digital Portfolio</i>
 </p>
 
 <p align="center">
@@ -18,11 +19,13 @@
 
 # 👋 Welcome!
 
-Hello! I’m **Petricia Ros Tomas**, a Fourth Year BS Nursing student.
+Hello! I'm **Petricia Ros A. Tomas**, a Fourth Year Bachelor of Science in Nursing student at **Ateneo de Davao University**.
 
-This repository contains my outputs for **GE 4120: 21st Century IT Skills**, organized as a digital portfolio to showcase my learning and development throughout the first five weeks of the course.
+This repository contains my outputs for **GE 4120: 21st Century IT Skills**, organized as a digital portfolio to showcase my learning and development throughout the course.
 
-The portfolio highlights my experience in **presentation design, visual communication, color and typography, infographic creation, project documentation, and the use of digital tools and GitHub for organizing academic outputs.**
+My interests include nursing, sports, table tennis, creative design, and exploring digital technologies. Through these activities, I have developed skills in **presentation design, visual communication, color and typography, infographic creation, project documentation, prompt engineering, AI-assisted content creation, website development, and GitHub repository management.**
+
+This portfolio reflects how digital tools and artificial intelligence can support creativity, academic learning, professional development, and effective communication.
 
 ---
 
@@ -33,6 +36,9 @@ The portfolio highlights my experience in **presentation design, visual communic
 | 🎨 [Activity 1](#-activity-1--presentation-design-principles) | Presentation Design |
 | 🎨 [Activity 2](#-activity-2--color-palette-and-typography) | Color & Typography |
 | 🌊 [Activity 3](#-activity-3--social-media-infographic--mini-project-documentation) | Infographic & Mini Project |
+| 🤖 [Activity 5](#-activity-5--exploring-and-improving-ai-prompts) | AI Prompt Refinement |
+| 🌐 [Activity 6](#-activity-6--making-a-website) | Personal Portfolio Website |
+| 📄 [Activity 7](#-activity-7--resume-generating-using-llms) | AI-Generated Nursing Resume |
 | 📚 [Presentation File Midterms](#-presentation-file-midterms) | Midterm Presentation & Google Docs Quiz |
 
 ---
@@ -45,9 +51,13 @@ The portfolio highlights my experience in **presentation design, visual communic
 | 📁 **Activity 2** | `Activity 2_Tomas.pdf` | Color Palette & Typography |
 | 📁 **Activity 3** | `Infographic_TOMAS.pdf` | Social Media Infographic |
 | 📁 **Activity 3** | `Project Documentation_TOMAS.pdf` | Mini Project Documentation |
+| 📁 **Activity 5** | `Activity 5_AI Tools Activity_Tomas.pdf` | Exploring and Improving AI Prompts |
+| 📁 **Activity 6** | `TOMAS_ACTIVITY6.pdf` | Making a Website |
+| 📁 **Activity 7** | `Resume-Prompt.txt` | Nursing Resume Generation Prompt |
+| 📁 **Activity 7** | `Tomas_Chat GPT_Resume.jpg` | ChatGPT Resume Output |
+| 📁 **Activity 7** | `Tomas_Claude AI_Resume.jpg` | Claude AI Resume Output |
 | 📁 **Presentation File Midterms** | `GE 4120  GROUP 5 ELECTIVE SLIDES.pdf` | Group 5 Elective Presentation |
 | 📁 **Presentation File Midterms** | `Google Docs Quiz Link` | Google Docs Quiz Website |
-
 
 ---
 
@@ -65,8 +75,8 @@ This activity focused on applying basic **presentation design principles** to cr
 
 The design promotes a free coffee event using a clear visual hierarchy, short messaging, and attention-grabbing text.
 
-> **“FREE COFFEE. NO CATCH.”**  
-> *“JUST CAFFEINE AND GOOD VIBES.”*
+> **"FREE COFFEE. NO CATCH."**  
+> *"JUST CAFFEINE AND GOOD VIBES."*
 
 ### What I Created
 
@@ -131,7 +141,7 @@ The neutral and brown color palette creates a cohesive foundation, while the com
 
 ### 🎯 Design Concept
 
-> **“Care in the Details. Power in the Execution.”**
+> **"Care in the Details. Power in the Execution."**
 
 The concept reflects my approach to design, where small details such as color, font selection, hierarchy, and consistency can have a significant effect on how effectively information is presented.
 
@@ -176,7 +186,7 @@ The infographic explains the importance of understanding sudden flooding, includ
 
 Recognizing warning signs early can help communities respond quickly and potentially save lives.
 
-> **“Stay Informed, Stay Safe!”**
+> **"Stay Informed, Stay Safe!"**
 
 ---
 
@@ -233,6 +243,156 @@ The system aims to help communities:
 
 ---
 
+# 🤖 Activity 5 — Exploring and Improving AI Prompts
+
+📁 **Folder:** `Activity 5`
+
+📄 **File:** `Activity 5_AI Tools Activity_Tomas.pdf`
+
+🔗 **[View Activity 5 PDF →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%205/Activity%205_AI%20Tools%20Activity_Tomas.pdf)**
+
+### 🎵 Topic: AI Prompt Refinement — Analyzing the Cultural Endurance of "Wonderwall" by Oasis
+
+This activity focused on understanding how improving a prompt can influence the clarity, detail, accuracy, and usefulness of AI-generated responses.
+
+### AI Tool Used
+
+- **AI Tool:** ChatGPT
+- **Domain:** Music and Cultural Analysis
+- **Topic:** The cultural popularity of Oasis's "Wonderwall" across generations.
+
+### What I Did
+
+- Created an original prompt asking why "Wonderwall" by Oasis became popular.
+- Generated an initial response using ChatGPT.
+- Used a leading LLM to refine the original prompt.
+- Improved the instructions by specifying a role, word count, target audience, discussion points, and accuracy guidelines.
+- Generated a second response using the improved prompt.
+- Compared both outputs based on their clarity, detail, accuracy, and usefulness.
+
+### Prompt Refinement
+
+The original prompt produced a brief explanation of the song's popularity, while the improved prompt generated a more comprehensive analytical article.
+
+The refined prompt required discussion of:
+
+- Historical Background and Britpop
+- Musical Characteristics
+- Emotional and Cultural Significance
+- Influence and Continued Popularity
+- Cross-Generational Appeal
+
+### What I Learned
+
+This activity taught me that the quality of an AI-generated response is greatly influenced by how instructions are written and organized. I learned that providing a specific role, clear objectives, and detailed requirements helps an LLM generate more relevant, structured, and useful information. I also realized that improved prompting does not guarantee factual accuracy, emphasizing the importance of independent verification when using AI-generated information.
+
+---
+
+# 🌐 Activity 6 — Making a Website
+
+📁 **Folder:** `Activity 6`
+
+📄 **File:** `TOMAS_ACTIVITY6.pdf`
+
+🔗 **[View Activity 6 PDF →](https://github.com/pratomas/Tomas_Prelim-Exam/blob/main/Activity%206/TOMAS_ACTIVITY6.pdf)**
+
+### 💻 Output: Personal Portfolio Website
+
+This activity focused on creating a **one-page personal portfolio website** using an AI-assisted website-building tool.
+
+### AI Tool Used
+
+- **Website Builder:** Covey Converge AI
+- **Website Concept:** Personal Portfolio
+- **Website Title:** A Little About Me — Petricia Ros A. Tomas
+
+### Objective of the Website
+
+The objective was to create a visually appealing, accessible, and user-friendly digital portfolio that introduces me and highlights my educational background, academic projects, skills, personal values, and aspirations as a fourth-year Bachelor of Science in Nursing student.
+
+### Design Approach
+
+The website uses a coordinated color palette consisting of:
+
+| Color | Hex Code |
+|---|---|
+| Deep Burgundy | `#7C0E44` |
+| Muted Rose | `#AA5E7A` |
+| Dusty Pink | `#D49A9A` |
+| Soft Cream | `#F2DACE` |
+
+The design focuses on presenting personal and academic information in an organized and professional manner while maintaining a consistent visual identity.
+
+### Website Features
+
+- 🏠 Home and Introduction
+- 👤 About Me
+- 🎓 Educational Background
+- 📂 Academic Portfolio
+- ✨ Skills and Personal Interests
+- 🎯 Personal Values and Aspirations
+- 📬 Contact Information
+
+### What I Learned
+
+This activity taught me how artificial intelligence can assist in transforming ideas and instructions into a functional and visually organized website. I learned that creating a website involves more than functionality, as design decisions such as color harmony, typography, layout, readability, and navigation contribute to the overall user experience. Through this experience, I improved my understanding of digital literacy, prompt writing, and AI-assisted website development.
+
+---
+
+# 📄 Activity 7 — Resume Generating Using LLMs
+
+📁 **Folder:** `Activity 7`
+
+### 💼 Output: AI-Generated Nursing Resume
+
+This activity involved using two different Large Language Models (LLMs), ChatGPT and Claude AI, to generate a professional nursing resume using the same prompt and personal information.
+
+The resume was prepared for an entry-level **Staff Nurse position at Southern Philippines Medical Center (SPMC)**, with a preference for Medical-Surgical Nursing.
+
+### AI Tools Used
+
+- **LLM 1:** ChatGPT
+- **LLM 2:** Claude AI
+
+### 📝 Resume Generation Prompt
+
+A structured prompt was created containing personal information, educational background, clinical experience, training, leadership involvement, and specific design and content requirements.
+
+The prompt instructed both AI tools to create a polished, professional, one-page nursing resume appropriate for hospital recruitment.
+
+📄 **[View Resume Generation Prompt →](Activity%207/Resume-Prompt.txt)**
+
+### Resume Outputs
+
+#### Resume 1 — ChatGPT
+
+ChatGPT generated a concise, minimalist resume with teal headings and a centered applicant name. It contained the essential qualifications and followed the requested sections, although some information appeared compressed and the page had considerable unused space.
+
+![ChatGPT Resume](Activity%207/Tomas_Chat%20GPT_Resume.jpg)
+
+#### Resume 2 — Claude AI
+
+Claude AI generated a visually balanced resume with clearer section divisions, larger typography, consistent spacing, and organized bullet points. Its presentation made the applicant's qualifications and clinical affiliations easier to navigate.
+
+![Claude AI Resume](Activity%207/Tomas_Claude%20AI_Resume.jpg)
+
+### Comparative Analysis
+
+| Criteria | ChatGPT | Claude AI |
+|---|---|---|
+| Structure | Followed the requested sections, with some compressed content | More organized presentation of information |
+| Clarity | Concise but smaller text and closely arranged affiliations | More readable typography and spacing |
+| Formatting | Minimalist design but considerable unused page space | Better alignment, section dividers, and page utilization |
+| Overall Quality | Satisfactory and professionally written | Stronger visual presentation and organization |
+
+Overall, Claude AI produced the stronger resume in terms of organization, readability, and visual presentation. However, ChatGPT provided concise content that could still be incorporated into the final document.
+
+### What I Learned
+
+This activity taught me that different Large Language Models can interpret the same prompt and produce noticeably different outputs. I learned the importance of evaluating AI-generated documents based on accuracy, relevance, organization, and professional presentation rather than simply accepting the first generated result. I also realized that detailed prompts help guide AI tools toward the desired results, although human evaluation and editing remain essential. In the future, I can apply these skills when preparing professional documents and using AI responsibly in academic and workplace settings.
+
+---
+
 # 📚 Presentation File Midterms
 
 📁 **Folder:** `Presentation File Midterms`
@@ -250,8 +410,6 @@ This folder contains the midterm presentation materials for GE 4120: 21st Centur
 Access the Google Docs quiz through the interactive quiz website or open the Google Form directly.
 
 🔗 **[Take the Google Docs Quiz Directly →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
-
----
 
 ---
 
@@ -274,23 +432,37 @@ Tomas_Prelim-Exam/
 ├── Activity 2/
 │   └── Activity 2_Tomas.pdf
 │
-└── Activity 3/
+├── Activity 3/
 │   ├── Infographic_TOMAS.pdf
 │   └── Project Documentation_TOMAS.pdf
 │
-├── Presentation File Midterms/
-│   ├── GE 4120  GROUP 5 ELECTIVE SLIDES.pdf
-│   └── Google Docs Quiz Link/
-│       └── index.html
+├── Activity 5/
+│   ├── README.md
+│   └── Activity 5_AI Tools Activity_Tomas.pdf
+│
+├── Activity 6/
+│   ├── README.md
+│   └── TOMAS_ACTIVITY6.pdf
+│
+├── Activity 7/
+│   ├── README.md
+│   ├── Resume-Prompt.txt
+│   ├── Tomas_Chat GPT_Resume.jpg
+│   └── Tomas_Claude AI_Resume.jpg
+│
+└── Presentation File Midterms/
+    ├── GE 4120  GROUP 5 ELECTIVE SLIDES.pdf
+    └── Google Docs Quiz Link/
+        └── index.html
 </pre>
 
 ---
 
 ## 🌟 Learning Reflection
 
-Creating this digital portfolio has allowed me to organize and present my academic outputs in an accessible online platform. These activities have strengthened my skills in digital communication, presentation design, information organization, and the use of online learning tools.
+Creating this digital portfolio has allowed me to organize and present my academic outputs in an accessible online platform. Throughout the course, I strengthened my skills in digital communication, presentation design, information organization, prompt engineering, AI-assisted content creation, and website development.
 
-As a nursing student, I recognize the importance of digital literacy in academic learning and professional practice. These skills can support effective communication, responsible information management, and lifelong learning in the healthcare field.
+I also learned the importance of evaluating AI-generated outputs, providing clear instructions, and using digital tools responsibly. As a nursing student, I recognize that digital literacy is essential in academic learning and professional practice. These skills can support effective communication, responsible information management, and lifelong learning in the healthcare field.
 
 ---
 
@@ -299,6 +471,7 @@ As a nursing student, I recognize the importance of digital literacy in academic
 **Prepared by:** Petricia Ros A. Tomas  
 **Course:** GE 4120 — 21st Century IT Skills  
 **Program:** Bachelor of Science in Nursing  
+**School:** Ateneo de Davao University  
 **Year:** 2026
 
 ---
